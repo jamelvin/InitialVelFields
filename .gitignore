@@ -1,0 +1,7 @@
+.DS_Store
+*.dat
+
+# These are excluded because they are too big
+field256_114.109.tar.gz
+initialDNS128_114.109.txt
+initialDNS256_114.109.txt
